@@ -1,5 +1,4 @@
 # Summary
 
+* README
 
-
-[Secundo thema. Неконечные станции](train.md)
